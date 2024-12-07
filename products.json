@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Phone",
+      "price": 1500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmC2ia7pGJOfiZ7Kl6Q-_mYbUM-mFjgV5MHg&s"
+    },
+    {
+      "id": 2,
+      "name": "CopyBook",
+      "price": 15.49,
+      "image": "https://falafelbooks.com/wp-content/uploads/2019/11/falafelbooks-notepad-a7-blank-4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Case",
+      "price": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukUvi4AWF1twcSSG3-FnGlclUrWmg3qn9Hw&s"
+    }
+  ]
+  
